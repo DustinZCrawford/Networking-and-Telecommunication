@@ -1,4 +1,4 @@
-# Repository Details
+# Networking and Telecommunication Repository Details
 A Brief explination of what is in this repository, why, and what each entity contains.
 ## Overview
 The documents contained in this repository are PDF renders of lab excercises I completed as part of my coursework. Each lab was
