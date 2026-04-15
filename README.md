@@ -7,8 +7,8 @@ images to display or give examples of what is being discussed in the document.
 
 These lab documents use skills such as Virtual Machine configuration/utilization, Linux command line practice for file management and network configuration, examining networks and their protocols using Wireshark, coding servers and clients on the same and separate machines in python, and setting up a host network with a custom local IP address and then using that network to connect to local machines.
 
-# [Virtual Machines and Network Capture](https://github.com/DustinZCrawford/Intro-to-Networking-and-Telecommunication/blob/main/Virtual_Machines_%26_Network_Capture.pdf)
+## [Virtual Machines and Network Capture](https://github.com/DustinZCrawford/Intro-to-Networking-and-Telecommunication/blob/main/Virtual_Machines_%26_Network_Capture.pdf)
 
-# [Dynamic Host Configuration Protocol](https://github.com/DustinZCrawford/Intro-to-Networking-and-Telecommunication/blob/main/Dynamic_Host_Configuration_Protocol.pdf)
+## [Dynamic Host Configuration Protocol](https://github.com/DustinZCrawford/Intro-to-Networking-and-Telecommunication/blob/main/Dynamic_Host_Configuration_Protocol.pdf)
 
-# [Advanced Network Protocols](https://github.com/DustinZCrawford/Intro-to-Networking-and-Telecommunication/blob/main/Advanced_Network_Protocols.pdf)
+## [Advanced Network Protocols](https://github.com/DustinZCrawford/Intro-to-Networking-and-Telecommunication/blob/main/Advanced_Network_Protocols.pdf)
